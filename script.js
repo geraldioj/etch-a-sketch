@@ -1,5 +1,5 @@
-const DEFAULT_WIDTH = 240
-const DEFAULT_HEIGHT = 240
+const DEFAULT_WIDTH = 400
+const DEFAULT_HEIGHT = 400
 const size= document.getElementById('sizeSliders')
 const rainbowCheck=document.getElementById('rainbow')
 
